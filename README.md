@@ -15,7 +15,18 @@ https://jp.mathworks.com/matlabcentral/fileexchange/40312-simulink-support-packa
 After the support package installation, make sure to setup and enable ESP32 hardware support.
 
 # Install
-To be written
+1. Download the file and extract to some directory.
+2. Add path to the library
+```
+>>addpath ('C:\foobar\M5StackLCD_Simulink')
+>>M5StackLCDlib
+```
+
+Or, you can use pathtool from MATLAB to add path to the library and save for later use as well.
+```
+>>pathtool
+```
+
 
 # Disclaimer
 This is a personal project of the Author.
