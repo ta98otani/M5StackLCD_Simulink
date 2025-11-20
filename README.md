@@ -19,3 +19,5 @@ To be written
 
 # Disclaimer
 This is a personal project of the Author.
+Code is shared under BSD License
+
